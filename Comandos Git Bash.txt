@@ -1,0 +1,12 @@
+Link para download do git: https://git-scm.com/download/win
+O GitBash é um terminal estendido para otimizar o uso do git
+
+**** COMANDO ADD ****
+git add .	Adiciona as pendencias no controle de versão LOCAL
+git add -A	Adiciona as pendencias no controle de versão LOCAL
+
+**** COMANDO COMMIT ****
+git commit -m "Inclusão das anotações do curso de Git/GitHub"	Cria um commit para o arquivo (mas ainda nao enviou para o repositorio)
+
+**** COMANDO PUSH ****
+git push origin main - envia todos os commits locais que estão pendentes, para a nuvem
