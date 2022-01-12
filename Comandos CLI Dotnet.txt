@@ -1,0 +1,26 @@
+dotnet --version
+- Exibe a versão instalada no .NET na máquina
+
+dotnet --help
+- Exibe todos os comandos do .NET
+
+dotnet --info
+- Traz informações detalhadas sobre o .NET
+
+dotnet new
+- Lista os tipos de projeto que podem ser criados
+
+dotnet new --list --tag web
+- Lista os tipos de projeto web que podem ser criados pelo dotnet
+
+dotnet new console -o MyApp
+- Cria o projeto do tipo console chamado MyApp
+
+dotnet build
+- Builda a aplicação e verifica se há erros
+
+dotnet run
+- Roda a aplicação
+
+dotnet restore
+- Restaura as dependências da aplicação
