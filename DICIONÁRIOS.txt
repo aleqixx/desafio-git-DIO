@@ -1,0 +1,8 @@
+********** DICIONÁRIOS **********
+- UM DICIONÁRIO É UMA COLEÇÃO DE CHAVE E VALOR, PERMITINDO QUE VOCÊ
+RECUPERE RAPIDAMENTE SEUS ITENS BASEADO EM SUA CHAVE.
+
+- O DICIONÁRIO ARMAZENA A SUA CHAVE EM HASH.
+
+CRIAÇÃO DE UM DICIONÁRIO:
+Dictionary<string, string> estados = new Dictionary<string,string>()

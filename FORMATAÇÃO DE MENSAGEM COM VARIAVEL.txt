@@ -1,0 +1,13 @@
+********** FORMATAÇÃO DE MENSAGEM COM VARIAVEL **********
+
+TIPO 1 - UTILIZANDO $
+string nome = "João";
+int idade = 16;
+System.ConsoleWriteLine($"{nome} tem {idade} anos");
+Resultado: "João tem 16 anos"
+
+TIPO 2 - UTILIZANDO {0} {1}
+string nome = "João";
+int idade = 16;
+System.ConsoleWriteLine("{0} tem {1} anos", nome, idade);
+Resultado: "João tem 16 anos"

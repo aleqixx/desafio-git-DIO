@@ -1,0 +1,16 @@
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.exe
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.dll
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.dll
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+D:\OneDrive - Personal\OneDrive\T. I\Developer\Bootcamp .NET Localiza\Git\desafio-git-DIO\ExemploColecoes\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
