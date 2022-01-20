@@ -1,0 +1,25 @@
+********** HTTP METODOS **********
+GET:
+SEMPRE OBTÉM OS DADOS
+
+POST:
+CRIA NOVO REGISTRO OU RECURSO
+
+PUT:
+ATUALIZA UM REGISTRO EXISTENTE
+
+DELETE:
+REMOVE UM REGISTRO EXISTENTE
+
+********** PADRÕES **********
+GET:
+/api/dev/user
+
+POST:
+/api/dev/user
+
+PUT:
+/api/dev/user/{id}
+
+DELETE:
+/api/dev/user/{id}

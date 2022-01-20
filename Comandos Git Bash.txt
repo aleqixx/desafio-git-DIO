@@ -9,4 +9,4 @@ git add -A	Adiciona as pendencias no controle de versão LOCAL
 git commit -m "Inclusão das anotações do curso de Git/GitHub"	Cria um commit para o arquivo (mas ainda nao enviou para o repositorio)
 
 **** COMANDO PUSH ****
-git push origin main - envia todos os commits locais que estão pendentes, para a nuvem
+git push origin main - envia todos os commits locais que estão pendentes, para a nuvem 
